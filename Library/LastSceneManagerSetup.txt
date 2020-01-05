@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/yaokong.unity
+  isLoaded: 1
+  isActive: 1
